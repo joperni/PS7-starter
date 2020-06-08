@@ -1,8 +1,16 @@
 ---
 title: "Problem Set 7 - Git Questions"
-author: "Your Name"
+author: "Josef Pernerstorfer"
 date: "02 June 2020"
 output: pdf_document
 ---
 
 Text answers suffice!
+
+1. Phillip is responsible for pem_cr. Julia is responsible for summary.pem_cr and print.pem_cr
+
+1. I'd say Phillip contributed more to the code. He added and deleted a lot of code.
+
+1. Phillip pushed more.
+
+1. Yes, they do have a different style. Philipp pushes more, while Julia pushes more focused.
